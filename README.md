@@ -16,4 +16,4 @@ This analysis perform an inversion for a two-layered model of crust & mantle str
 
 ## Acknowledgments
 
-Sleptian_alpha(https://github.com/csdms-contrib/slepian_alpha) functions were used for interpreting raw gravity in spherical harmoninics before performing two-layer inversion analysis.
+Sleptian_alpha(https://github.com/csdms-contrib/slepian_alpha) functions were used for converting spherical harmonics to xyz coordinates, to then plot the figures.
