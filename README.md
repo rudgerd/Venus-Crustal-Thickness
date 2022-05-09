@@ -13,3 +13,7 @@ This analysis perform an inversion for a two-layered model of crust & mantle str
 [1] James, P. B., Zuber, M. T., & Phillips, R. J. (2013). Crustal thickness and support of topography on Venus. Journal of Geophysical Research E: Planets, 118(4), 859–875. https://doi.org/10.1029/2012JE004237
 [2] James, P. B., Smith, D. E., Byrne, P. K., Kendall, J. D., Melosh, H. J., & Zuber, M. T. (2019). Deep structure of the lunar South Pole-Aitken basin. Geophysical Research Letters, 46, 5100– 5106. https://doi.org/10.1029/2019GL082252
 [3] Gilmore, M. S., Mueller, N., & Helbert, J. (2015). VIRTIS emissivity of Alpha Regio, Venus, with implications for tessera composition. Icarus, 254, 350–361. https://doi.org/10.1016/j.icarus.2015.04.008
+
+## Acknowledgments
+
+Some sleptian_alpha(https://github.com/csdms-contrib/slepian_alpha) functions were used for interpreting raw gravity in spherical harmoninics before performing two-layer inversion analysis.
