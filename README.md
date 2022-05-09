@@ -4,10 +4,8 @@
 This analysis perform an inversion for a two-layered model of crust & mantle structure to model the Venusian crust[1]. This implemented model, assumes that the mass anomalies are affected by mass associated with (1) relief on the crust-mantle interface and (2) lateral variations in mantle density[2]. The resulting calculation subtracts the crust-mantle depth from the topography to make a crustal thickness map. I also explore using a much lower crustal density for the tessera terrain to see the effect this would have on the crustal thickness[3].
 
 ## Instructions
-1. Add and name the following folders to the main folder:
-   SPHERICAL -> LEGENDRE
-             -> KERNELC
-             -> GLMAPLHA          
+1. Add and name the following folders to the main folder in the follow order:
+   SPHERICAL -> (LEGENDRE, KERNELC, GLMAPLHA)      
 2. Run CrustThicknessMap.m
 3. Explore different values for mean crustal thicknesses and densities
 
