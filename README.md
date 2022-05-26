@@ -6,6 +6,7 @@ This analysis perform an inversion for a two-layered model of crust & mantle str
 ## Instructions
 1. Add and name the SHPERICAL, LEGENDRE, KERNELC, and GLMALPHA empty folders to the main folder as seen here:
 
+>
     .
     ├── VenusData               # Geophysical Data
     ├── functions               # function files
@@ -15,7 +16,7 @@ This analysis perform an inversion for a two-layered model of crust & mantle str
     │   ├── KERNELC        
     │   └── GLMALPHA
     └── README.md
-     
+>    
 2. Run CrustThicknessMap.m
 3. Explore different values for mean crustal thicknesses and densities
 
